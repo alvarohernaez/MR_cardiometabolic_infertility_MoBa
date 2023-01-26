@@ -22,4 +22,4 @@ Available files:
 
 
 ## Citation
-Hernaez A., Lee Y., Page C.M., Skåra K.H., Håberg S.E., Magnus P., Njølstad P.R., Andreassen O., Corfield E.C., Havdahl A., Fraser A., Burgess S., Lawlor D.A., Magnus M.C. (2021). Impaired glucose tolerance and cardiovascular risk factors in relation to infertility: a Mendelian randomization analysis in the Norwegian Mother, Father and Child Cohort Study. Submitted
+Hernaez A., Lee Y., Page C.M., Skåra K.H., Håberg S.E., Magnus P., Njølstad P.R., Andreassen O., Corfield E.C., Havdahl A., Fraser A., Burgess S., Lawlor D.A., Magnus M.C. (2023). Impaired glucose tolerance and cardiovascular risk factors in relation to infertility: a Mendelian randomization analysis in the Norwegian Mother, Father and Child Cohort Study. Submitted
